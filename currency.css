@@ -8,7 +8,7 @@ body
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background-color: #f4e4ba;
+    background-color: #eee1c1;
 }
 
 .container{
@@ -72,6 +72,7 @@ form input{
 .msg{
     margin:2rem 0 2rem 0;
 }
+
 
 form button{
     height: 3rem;
